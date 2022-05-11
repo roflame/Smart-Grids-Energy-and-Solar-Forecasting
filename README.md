@@ -1,2 +1,2 @@
-# Smart Grids Energy and Solar Forecasting
+## Smart Grids ELEN E6901: Energy and Solar Forecasting Code for Final Project
  
